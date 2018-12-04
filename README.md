@@ -15,7 +15,7 @@ private Redis server and a public Webdis server and connect them.
 
 ## Create a public Webdis server
 
-1. Create a new web service on Render using this repository.
+1. Create a [new web service on Render](https://render.com/select-repo?type=web) using this repository.
 
 2. Give it a name. "webdis" isn't so bad.
 
