@@ -6,7 +6,7 @@ private Redis server and a public Webdis server and connect them.
 ## Create a private Redis server
 
 1. Create a new private service on Render using the
-   [render-examples/redis-cache](https://github.com/render-examples/redis-cache) repository.
+   [render-examples/redis](https://github.com/render-examples/redis) repository.
 
 2. Give it a name. We recommend "redis".
 
