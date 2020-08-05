@@ -1,4 +1,4 @@
-FROM debian:stretch
+FROM nicolas:webdis
 
 WORKDIR /webdis
 COPY webdis ./src
